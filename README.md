@@ -37,7 +37,7 @@
 ## Versioning
 ## Authors
 * **Isaac Cornelius** 
-* **Gershon Fosu**
+* **[Gershon Fosu](https://github.com/SZOKOZ)**
 ## License
 ## Acknowledgements
 Thanks to Gershon for heping me with the copyState function :)
